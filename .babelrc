@@ -1,0 +1,14 @@
+//instalamos babel/core que sirve para transformar a codigo moderno nuestro js
+// instalamos bebel-loader qu sirve para manejar todos los paqutes webpack
+{
+    "presets":[
+        "@babel/preset-env",
+        "@babel/preset-react"
+    ]
+}
+// {
+// 	"presets": [
+// 	["@babel/preset-env",{ "targets":{ "node":"current" } }], 
+// 	"@babel/preset-react"
+// 	]
+// }
