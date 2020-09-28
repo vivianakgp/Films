@@ -3,7 +3,8 @@
 
 ## Introduction
 
-> PlatziVideo contiene una recopilación de los mejores videos.Ecuentra tus videos a traves del buscador y añadelos a tu lista de favoritos, tambien puedes encontrar videos en lista de tendencias y originales de PlatziVideo.
+> PlatziVideo contains the best videos compilation. Find your videos through the search engine and add them to your list of favorites, you can also find videos in PlatziVideo's list of trends and originals.
+## Interface
 > https://github.com/vivianakgp/platzi-video/blob/master/public/mobile-UI.png? raw=true
 >https://github.com/vivianakgp/platzi-video/blob/master/public/wen-UI.png?raw=true
 ## Code Samples
